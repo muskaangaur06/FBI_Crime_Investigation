@@ -1,0 +1,193 @@
+TYPE,HOUR,Incident_Count
+Break and Enter Commercial,0,2072
+Break and Enter Commercial,1,1459
+Break and Enter Commercial,2,1591
+Break and Enter Commercial,3,2037
+Break and Enter Commercial,4,2252
+Break and Enter Commercial,5,2093
+Break and Enter Commercial,6,1312
+Break and Enter Commercial,7,874
+Break and Enter Commercial,8,699
+Break and Enter Commercial,9,633
+Break and Enter Commercial,10,568
+Break and Enter Commercial,11,465
+Break and Enter Commercial,12,595
+Break and Enter Commercial,13,401
+Break and Enter Commercial,14,488
+Break and Enter Commercial,15,687
+Break and Enter Commercial,16,1020
+Break and Enter Commercial,17,1793
+Break and Enter Commercial,18,2160
+Break and Enter Commercial,19,1290
+Break and Enter Commercial,20,1194
+Break and Enter Commercial,21,1290
+Break and Enter Commercial,22,1483
+Break and Enter Commercial,23,1592
+Break and Enter Residential/Other,0,2786
+Break and Enter Residential/Other,1,1262
+Break and Enter Residential/Other,2,1110
+Break and Enter Residential/Other,3,1012
+Break and Enter Residential/Other,4,933
+Break and Enter Residential/Other,5,956
+Break and Enter Residential/Other,6,1317
+Break and Enter Residential/Other,7,2074
+Break and Enter Residential/Other,8,3498
+Break and Enter Residential/Other,9,2990
+Break and Enter Residential/Other,10,2822
+Break and Enter Residential/Other,11,2639
+Break and Enter Residential/Other,12,3635
+Break and Enter Residential/Other,13,2575
+Break and Enter Residential/Other,14,2749
+Break and Enter Residential/Other,15,2810
+Break and Enter Residential/Other,16,2626
+Break and Enter Residential/Other,17,2990
+Break and Enter Residential/Other,18,3396
+Break and Enter Residential/Other,19,2764
+Break and Enter Residential/Other,20,2478
+Break and Enter Residential/Other,21,2381
+Break and Enter Residential/Other,22,2441
+Break and Enter Residential/Other,23,2320
+Mischief,0,5066
+Mischief,1,3095
+Mischief,2,2595
+Mischief,3,2000
+Mischief,4,1482
+Mischief,5,1168
+Mischief,6,1131
+Mischief,7,1356
+Mischief,8,1898
+Mischief,9,1921
+Mischief,10,1774
+Mischief,11,1743
+Mischief,12,2525
+Mischief,13,1802
+Mischief,14,1996
+Mischief,15,2389
+Mischief,16,2752
+Mischief,17,3415
+Mischief,18,4046
+Mischief,19,3484
+Mischief,20,3571
+Mischief,21,3852
+Mischief,22,4202
+Mischief,23,3970
+Other Theft,0,323
+Other Theft,1,254
+Other Theft,2,196
+Other Theft,3,170
+Other Theft,4,138
+Other Theft,5,158
+Other Theft,6,186
+Other Theft,7,289
+Other Theft,8,475
+Other Theft,9,1084
+Other Theft,10,1953
+Other Theft,11,2556
+Other Theft,12,3073
+Other Theft,13,3504
+Other Theft,14,4071
+Other Theft,15,4390
+Other Theft,16,4295
+Other Theft,17,4181
+Other Theft,18,3558
+Other Theft,19,2980
+Other Theft,20,2392
+Other Theft,21,1671
+Other Theft,22,1106
+Other Theft,23,590
+Theft from Vehicle,0,10023
+Theft from Vehicle,1,3620
+Theft from Vehicle,2,2481
+Theft from Vehicle,3,1707
+Theft from Vehicle,4,1452
+Theft from Vehicle,5,1496
+Theft from Vehicle,6,1978
+Theft from Vehicle,7,3143
+Theft from Vehicle,8,4666
+Theft from Vehicle,9,5048
+Theft from Vehicle,10,4339
+Theft from Vehicle,11,4239
+Theft from Vehicle,12,7454
+Theft from Vehicle,13,5203
+Theft from Vehicle,14,5791
+Theft from Vehicle,15,6822
+Theft from Vehicle,16,8042
+Theft from Vehicle,17,10341
+Theft from Vehicle,18,13369
+Theft from Vehicle,19,10799
+Theft from Vehicle,20,10333
+Theft from Vehicle,21,10346
+Theft from Vehicle,22,11676
+Theft from Vehicle,23,9564
+Theft of Bicycle,0,1475
+Theft of Bicycle,1,449
+Theft of Bicycle,2,262
+Theft of Bicycle,3,184
+Theft of Bicycle,4,162
+Theft of Bicycle,5,179
+Theft of Bicycle,6,262
+Theft of Bicycle,7,479
+Theft of Bicycle,8,923
+Theft of Bicycle,9,956
+Theft of Bicycle,10,802
+Theft of Bicycle,11,759
+Theft of Bicycle,12,1443
+Theft of Bicycle,13,993
+Theft of Bicycle,14,1133
+Theft of Bicycle,15,1321
+Theft of Bicycle,16,1363
+Theft of Bicycle,17,1548
+Theft of Bicycle,18,1748
+Theft of Bicycle,19,1388
+Theft of Bicycle,20,1238
+Theft of Bicycle,21,1095
+Theft of Bicycle,22,1101
+Theft of Bicycle,23,847
+Theft of Vehicle,0,2170
+Theft of Vehicle,1,1022
+Theft of Vehicle,2,765
+Theft of Vehicle,3,466
+Theft of Vehicle,4,387
+Theft of Vehicle,5,322
+Theft of Vehicle,6,501
+Theft of Vehicle,7,678
+Theft of Vehicle,8,1008
+Theft of Vehicle,9,1006
+Theft of Vehicle,10,903
+Theft of Vehicle,11,844
+Theft of Vehicle,12,1456
+Theft of Vehicle,13,932
+Theft of Vehicle,14,1159
+Theft of Vehicle,15,1379
+Theft of Vehicle,16,1664
+Theft of Vehicle,17,2311
+Theft of Vehicle,18,2844
+Theft of Vehicle,19,2643
+Theft of Vehicle,20,2717
+Theft of Vehicle,21,3048
+Theft of Vehicle,22,3179
+Theft of Vehicle,23,2785
+Vehicle Collision or Pedestrian Struck (with Injury),0,418
+Vehicle Collision or Pedestrian Struck (with Injury),1,403
+Vehicle Collision or Pedestrian Struck (with Injury),2,358
+Vehicle Collision or Pedestrian Struck (with Injury),3,287
+Vehicle Collision or Pedestrian Struck (with Injury),4,193
+Vehicle Collision or Pedestrian Struck (with Injury),5,237
+Vehicle Collision or Pedestrian Struck (with Injury),6,452
+Vehicle Collision or Pedestrian Struck (with Injury),7,730
+Vehicle Collision or Pedestrian Struck (with Injury),8,1018
+Vehicle Collision or Pedestrian Struck (with Injury),9,934
+Vehicle Collision or Pedestrian Struck (with Injury),10,921
+Vehicle Collision or Pedestrian Struck (with Injury),11,951
+Vehicle Collision or Pedestrian Struck (with Injury),12,1004
+Vehicle Collision or Pedestrian Struck (with Injury),13,941
+Vehicle Collision or Pedestrian Struck (with Injury),14,1100
+Vehicle Collision or Pedestrian Struck (with Injury),15,1393
+Vehicle Collision or Pedestrian Struck (with Injury),16,1368
+Vehicle Collision or Pedestrian Struck (with Injury),17,1637
+Vehicle Collision or Pedestrian Struck (with Injury),18,1292
+Vehicle Collision or Pedestrian Struck (with Injury),19,962
+Vehicle Collision or Pedestrian Struck (with Injury),20,781
+Vehicle Collision or Pedestrian Struck (with Injury),21,808
+Vehicle Collision or Pedestrian Struck (with Injury),22,750
+Vehicle Collision or Pedestrian Struck (with Injury),23,593
